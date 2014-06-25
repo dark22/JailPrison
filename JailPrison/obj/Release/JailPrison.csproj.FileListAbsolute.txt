@@ -1,0 +1,10 @@
+E:\JailPrison\JailPrison\bin\Release\JailPrison.dll
+E:\JailPrison\JailPrison\bin\Release\JailPrison.pdb
+E:\JailPrison\JailPrison\bin\Release\Newtonsoft.Json.dll
+E:\JailPrison\JailPrison\bin\Release\TerrariaServer.exe
+E:\JailPrison\JailPrison\bin\Release\TShockAPI.dll
+E:\JailPrison\JailPrison\bin\Release\MySql.Data.dll
+E:\JailPrison\JailPrison\bin\Release\HttpServer.dll
+E:\JailPrison\JailPrison\bin\Release\Mono.Data.Sqlite.dll
+E:\JailPrison\JailPrison\obj\Release\JailPrison.dll
+E:\JailPrison\JailPrison\obj\Release\JailPrison.pdb
